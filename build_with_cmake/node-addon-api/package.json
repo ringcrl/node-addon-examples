@@ -6,10 +6,11 @@
   "private": true,
   "dependencies": {
     "bindings": "~1.2.1",
+    "cmake-js": "^6.3.0",
     "node-addon-api": "^1.0.0"
   },
   "scripts": {
-    "install": "cmake-js compile",
+    "build": "cmake-js compile",
     "test": "node hello.js"
   }
 }
