@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "name": "gcc-node",
+      "includePath": [
+        "/root/.nvm/versions/node/v16.15.0/include/node",
+        "/data/github.com/node-addon-examples/node_modules/node-addon-api"
+      ]
+    }
+  ],
+  "version": 4
+}

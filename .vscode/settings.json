@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.tcc": "c",
+    "node_api.h": "c",
+    "assert.h": "c"
+  }
+}
