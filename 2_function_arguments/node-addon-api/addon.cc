@@ -1,4 +1,5 @@
 #include <napi.h>
+#include <iostream>
 
 Napi::Value Add(const Napi::CallbackInfo& info) {
   Napi::Env env = info.Env();
